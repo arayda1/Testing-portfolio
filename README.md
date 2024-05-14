@@ -49,7 +49,7 @@ I'm a 27-year-old Computer Science bachelor student with a unique background in 
 ## Languages
 
 - Turkish: Native
-- English: B2 Level
+- English: Fluent
 
 ## Contact
 
