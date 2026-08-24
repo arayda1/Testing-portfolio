@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a 27-year-old Computer Science bachelor student with a unique background in Music Education. My journey into the tech world has been driven by a genuine curiosity for Graphical Design and IT. Currently, I'm pursuing a bachelor's degree in Poland and have developed a strong interest in manual and AI testing. I aim to contribute to the tech landscape by blending creativity with practical skills. I value collaboration and am always eager to learn from others.
+I'm a 29-year-old Computer Science bachelor student with a unique background in Music Education. My journey into the tech world has been driven by a genuine curiosity for Graphical Design and IT. Currently, I'm pursuing a bachelor's degree in Poland and have developed a strong interest in manual and AI testing. I aim to contribute to the tech landscape by blending creativity with practical skills. I value collaboration and am always eager to learn from others.
 
 ## Work Experience
 
