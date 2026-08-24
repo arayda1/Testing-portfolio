@@ -53,8 +53,6 @@ I'm a 27-year-old Computer Science bachelor student with a unique background in 
 
 ## Contact
 
-- **Phone (PL)**: +48 572 566 628
-- **Phone (TR)**: +90 546 811 6297
 - **Email**: aydakdogan2@gmail.com
 
 ## Social Links
